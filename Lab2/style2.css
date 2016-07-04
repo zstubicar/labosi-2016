@@ -1,0 +1,134 @@
+
+
+.body{
+	background-color:#2D882D;
+	min-height:759px;
+}		
+#login_main{
+	background-color:#55AA55;
+	min-height:650px;
+	text-align:center;
+	margin-top:20px;
+}
+
+.logo{
+	min-height:500px;
+	margin-top:20px;
+}
+.logo img{
+	width:165px;
+	height:87px;
+}
+.moto{
+	font-size:18px;
+	margin-bottom:10px;
+	color:#55AA55;
+}
+
+.login_forma{
+	min-height:500px;
+	background-color:white;
+	padding:15px;
+	margin:0,auto;
+}
+form{
+	margin:auto;
+	text-align:left;
+}
+
+
+
+
+.header_user{
+	height:65px;
+	background: linear-gradient(to bottom, #b5bdc8 0%,#828c95 36%,#28343b 100%);
+	width:100%;
+}
+
+.logo_user{
+}
+
+.logo_user img{
+	width:89px;
+	height:45px;
+	margin-top:5px;
+	padding-left:30px;
+}
+
+#odjava{
+	float:right;
+	margin-top:10px;
+	margin-right:5px;
+}
+.main_user{
+	margin-top: 10px;
+	position: relative;
+	width:100%;
+	height:auto;
+	background-color: white;
+}
+
+.nav{
+	width:170px;
+	min-height: 300px;
+	float:left;
+	display: block;
+	margin-left:3px;
+	
+}
+
+.nav li{
+	list-style: none;
+	padding-top: 5px;
+}
+.nav li a{
+	text-decoration: none;
+}
+
+.text_user{
+	width:750px;
+	min-height:750px;
+	float:right;
+	box-sizing: border-box;
+	border:1px solid black;
+	background-color: #ffffff;
+}
+
+.text_user p,h3{
+	padding: 20px;
+}
+
+.text_user h3:hover{
+	background-color: #55AA55;
+}
+
+
+
+
+.text_proizvodi{
+	width:750px;
+	min-height:750px;
+	float:right;
+	box-sizing: border-box;
+	border:1px solid black;
+	background-color: #ffffff;
+}
+
+
+
+.footer{
+	clear:both;
+	width:100%;
+	background-color: black;
+	color:white;
+	text-align: center;
+	font-size:1.175em;
+	min-height:40px;
+}
+
+.footer p{
+	margin-top:4px;
+}
+
+
+
